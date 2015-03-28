@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://hb8t.github.io
+title: Awesome
+email: 
+author: hb8t
+description: My awesome new site
+paginate: 3
+google_analytics: 
